@@ -1,0 +1,12653 @@
+fuel 0 444
+missile 0 4
+move 0 1
+fuel 1 203
+missile 1 276
+move 1 0
+fuel 2 491
+missile 2 790
+fuel 3 87
+missile 3 106
+move 3 0
+fuel 4 440
+missile 4 9
+move 4 3
+fuel 5 47
+missile 5 803
+move 5 0
+fuel 6 184
+missile 6 246
+move 6 3
+fuel 7 248
+missile 7 783
+move 7 1
+OK
+attack 0 2 3
+attack 0 1 1
+move 1 0
+move 2 0
+fuel 3 153
+move 4 3
+fuel 5 103
+missile 5 114
+move 5 3
+fuel 6 1
+move 6 0
+fuel 7 1
+move 7 1
+OK
+attack 1 0 8
+move 1 1
+move 2 1
+move 3 2
+move 6 0
+fuel 7 1
+move 7 1
+OK
+move 0 2
+move 1 0
+fuel 2 2
+move 2 0
+attack 3 0 9
+move 3 1
+move 4 0
+move 5 1
+attack 6 0 7
+move 6 1
+move 7 3
+OK
+move 0 3
+move 1 0
+move 2 2
+move 3 2
+fuel 4 3
+move 4 1
+move 5 1
+move 6 0
+move 7 1
+OK
+move 0 2
+attack 1 0 2
+move 2 1
+move 3 1
+move 4 1
+move 5 3
+move 6 0
+move 7 3
+OK
+move 0 3
+move 1 2
+attack 2 2 2
+move 2 0
+move 3 0
+move 4 2
+move 5 2
+attack 6 0 10
+move 7 1
+OK
+attack 1 0 4
+move 1 1
+move 2 3
+move 3 3
+fuel 4 3
+move 4 1
+move 5 0
+move 6 0
+move 7 2
+OK
+move 0 2
+move 1 3
+move 2 2
+move 3 0
+fuel 4 1
+move 4 0
+move 5 0
+attack 6 2 4
+move 6 2
+attack 7 2 8
+move 7 3
+OK
+move 0 3
+move 1 1
+move 2 2
+move 3 2
+fuel 4 1
+move 4 2
+move 5 0
+attack 6 0 9
+move 6 1
+move 7 1
+OK
+move 1 1
+move 2 3
+attack 3 0 6
+move 3 3
+move 4 0
+move 5 2
+move 6 0
+move 7 2
+OK
+fuel 1 10
+missile 1 14
+move 1 3
+move 2 1
+move 3 3
+fuel 4 2
+move 4 3
+move 5 1
+move 6 0
+fuel 7 9
+missile 7 8
+move 7 3
+OK
+move 0 2
+attack 1 0 5
+attack 1 1 9
+move 1 0
+move 2 2
+fuel 3 10
+missile 3 15
+move 3 1
+move 4 2
+fuel 5 10
+move 5 1
+move 6 0
+move 7 2
+OK
+move 0 2
+attack 1 0 4
+move 1 2
+move 2 3
+move 3 0
+fuel 4 2
+move 4 2
+move 5 1
+move 6 0
+fuel 7 2
+move 7 1
+OK
+move 0 0
+move 1 1
+fuel 3 2
+move 3 2
+move 4 0
+move 5 2
+fuel 6 12
+missile 6 30
+move 6 1
+move 7 0
+OK
+move 0 3
+fuel 1 4
+missile 1 18
+move 1 0
+move 2 3
+move 3 3
+fuel 4 2
+move 4 1
+fuel 5 3
+move 5 0
+move 6 2
+fuel 7 2
+move 7 0
+OK
+move 0 1
+move 1 2
+fuel 2 12
+missile 2 2
+move 2 3
+fuel 3 2
+move 4 0
+move 5 1
+attack 6 2 1
+move 6 0
+move 7 0
+OK
+move 0 0
+move 1 2
+fuel 2 1
+move 3 2
+fuel 4 2
+move 4 3
+fuel 5 2
+move 5 3
+fuel 6 3
+missile 6 1
+move 6 2
+move 7 0
+OK
+move 0 3
+move 1 1
+move 2 2
+move 3 1
+move 4 0
+move 5 1
+attack 6 0 5
+move 6 3
+move 7 0
+OK
+fuel 0 14
+missile 0 4
+move 0 0
+fuel 1 4
+move 1 2
+fuel 2 1
+move 2 3
+move 3 2
+move 4 1
+move 5 0
+fuel 6 2
+missile 6 5
+move 6 0
+fuel 7 4
+move 7 0
+OK
+move 0 2
+move 1 2
+fuel 2 1
+move 2 0
+move 3 3
+move 4 0
+move 5 1
+move 6 2
+fuel 7 1
+move 7 3
+OK
+fuel 0 2
+move 0 2
+attack 1 0 2
+move 1 0
+move 2 2
+move 3 2
+move 4 1
+move 5 0
+move 6 2
+move 7 2
+OK
+move 0 3
+move 1 2
+move 2 1
+move 3 0
+move 4 2
+move 5 1
+attack 6 2 7
+move 6 3
+fuel 7 2
+move 7 1
+OK
+fuel 0 2
+move 0 0
+attack 1 2 7
+move 1 3
+fuel 2 3
+move 3 2
+fuel 4 6
+move 4 0
+move 5 1
+move 6 3
+fuel 7 1
+move 7 3
+OK
+fuel 0 1
+move 0 3
+move 1 2
+move 3 1
+fuel 4 1
+move 4 3
+attack 5 2 4
+move 6 0
+fuel 7 1
+move 7 1
+OK
+move 0 0
+move 1 1
+move 3 2
+move 4 0
+move 5 0
+move 6 0
+fuel 7 1
+move 7 2
+OK
+fuel 0 2
+move 0 3
+attack 1 2 6
+attack 1 1 5
+move 1 2
+move 2 2
+move 3 3
+move 4 0
+move 5 2
+move 6 1
+move 7 0
+OK
+fuel 0 1
+move 0 0
+attack 1 2 5
+move 1 3
+move 3 1
+fuel 4 3
+move 4 1
+attack 5 2 4
+move 5 3
+move 6 0
+fuel 7 2
+move 7 3
+OK
+move 0 1
+move 1 2
+move 2 0
+move 3 2
+move 4 2
+move 5 0
+move 6 3
+fuel 7 1
+move 7 1
+OK
+fuel 0 2
+move 0 1
+move 1 2
+move 2 2
+attack 3 2 4
+move 3 2
+fuel 4 2
+move 4 3
+move 5 0
+fuel 6 10
+missile 6 7
+move 6 3
+fuel 7 1
+move 7 3
+OK
+move 0 2
+attack 1 0 3
+attack 1 2 2
+attack 1 1 8
+move 1 3
+move 2 0
+move 3 3
+move 4 3
+move 5 0
+fuel 6 1
+move 6 2
+move 7 1
+OK
+move 0 0
+move 1 1
+attack 2 2 9
+move 2 3
+move 3 3
+move 4 1
+fuel 5 13
+missile 5 8
+move 5 2
+fuel 6 1
+move 6 0
+move 7 0
+OK
+fuel 0 3
+move 0 3
+attack 1 1 7
+move 1 2
+fuel 2 5
+missile 2 9
+move 2 2
+move 3 0
+move 4 0
+move 5 1
+move 6 1
+move 7 2
+OK
+fuel 0 1
+move 0 3
+attack 1 2 8
+attack 1 1 9
+move 1 0
+move 2 1
+move 3 0
+move 4 0
+move 5 1
+fuel 6 2
+move 6 3
+fuel 7 4
+move 7 0
+OK
+attack 0 0 4
+move 0 2
+move 1 3
+move 2 2
+move 3 1
+fuel 4 5
+move 4 3
+fuel 5 3
+move 5 1
+fuel 6 1
+move 6 1
+fuel 7 1
+move 7 2
+OK
+fuel 0 2
+missile 0 4
+move 0 2
+move 1 1
+attack 2 2 4
+move 2 2
+move 3 0
+move 4 2
+move 5 0
+fuel 6 1
+move 6 2
+fuel 7 1
+move 7 1
+OK
+fuel 0 1
+move 0 3
+move 1 3
+move 2 3
+move 3 1
+fuel 4 2
+move 4 3
+fuel 5 2
+move 5 1
+fuel 6 1
+move 6 0
+move 7 0
+OK
+fuel 0 1
+move 0 2
+move 1 0
+move 2 3
+move 3 3
+move 5 1
+fuel 6 1
+move 6 3
+fuel 7 2
+move 7 2
+OK
+fuel 0 1
+move 0 0
+move 1 2
+move 2 2
+move 3 2
+move 4 2
+attack 5 2 2
+move 5 3
+fuel 6 1
+move 6 3
+fuel 7 1
+move 7 1
+OK
+fuel 0 1
+move 0 2
+move 1 3
+move 2 2
+move 3 0
+fuel 4 2
+move 4 2
+move 5 0
+move 6 2
+move 7 3
+OK
+move 0 2
+move 1 2
+move 2 2
+move 3 0
+fuel 4 1
+move 4 0
+move 5 0
+fuel 6 2
+move 6 0
+move 7 3
+OK
+move 0 1
+move 1 0
+move 2 1
+move 3 3
+fuel 4 1
+move 4 1
+move 5 1
+move 6 0
+fuel 7 3
+move 7 3
+OK
+move 0 3
+move 1 3
+fuel 2 10
+missile 2 4
+move 2 3
+move 3 0
+fuel 4 1
+move 4 2
+move 5 3
+move 6 3
+move 7 1
+OK
+fuel 0 4
+move 0 1
+move 1 2
+move 2 3
+move 3 0
+fuel 4 1
+move 4 3
+move 5 3
+fuel 6 3
+move 6 1
+move 7 3
+OK
+fuel 0 1
+move 0 0
+move 1 3
+move 2 2
+attack 3 2 4
+move 3 0
+fuel 4 1
+move 4 2
+move 5 1
+fuel 6 1
+move 6 2
+move 7 0
+OK
+fuel 0 1
+move 0 3
+move 1 3
+attack 3 0 8
+fuel 4 1
+move 4 0
+fuel 5 9
+missile 5 2
+move 5 3
+move 6 2
+move 7 1
+OK
+fuel 0 1
+move 0 1
+move 1 0
+move 2 3
+move 3 0
+move 4 2
+move 5 2
+move 6 3
+move 7 2
+OK
+move 0 0
+attack 1 0 4
+move 1 2
+attack 3 0 9
+attack 3 2 5
+move 3 0
+move 4 1
+fuel 5 2
+move 5 3
+move 6 3
+move 7 0
+OK
+fuel 0 2
+move 0 2
+move 1 0
+move 2 2
+attack 3 0 2
+move 4 0
+fuel 6 4
+move 6 0
+move 7 3
+OK
+fuel 0 1
+move 0 2
+attack 1 2 5
+move 1 0
+move 2 2
+move 3 2
+move 4 2
+fuel 6 1
+move 6 3
+move 7 2
+OK
+move 0 2
+attack 1 0 9
+attack 1 2 9
+move 1 2
+fuel 2 6
+move 2 2
+move 3 0
+fuel 4 5
+move 4 1
+move 5 2
+move 6 3
+move 7 2
+OK
+move 0 0
+attack 1 0 1
+attack 1 2 2
+move 1 2
+move 2 0
+fuel 4 1
+move 4 0
+fuel 5 2
+move 6 2
+fuel 7 10
+move 7 0
+OK
+move 0 0
+attack 1 0 4
+attack 1 2 10
+attack 1 1 9
+move 1 2
+move 2 0
+move 3 3
+fuel 4 1
+move 4 1
+move 6 3
+fuel 7 1
+move 7 0
+OK
+move 0 0
+attack 1 0 7
+move 1 2
+fuel 2 3
+move 2 2
+fuel 4 1
+move 4 2
+move 5 0
+move 6 3
+move 7 0
+OK
+move 0 3
+attack 1 1 4
+move 1 3
+move 2 1
+move 3 1
+move 4 0
+move 5 0
+fuel 6 5
+move 6 3
+fuel 7 2
+move 7 1
+OK
+fuel 0 6
+move 0 0
+move 1 2
+move 2 2
+move 3 0
+move 4 0
+move 6 2
+move 7 2
+OK
+attack 0 0 3
+move 0 1
+move 1 3
+move 2 2
+move 3 1
+fuel 4 3
+move 4 2
+move 5 1
+fuel 6 2
+move 6 0
+fuel 7 2
+move 7 2
+OK
+fuel 0 2
+missile 0 3
+move 0 2
+move 1 0
+attack 2 0 1
+move 2 3
+move 3 2
+fuel 4 1
+move 4 0
+move 5 2
+move 6 1
+fuel 7 1
+move 7 1
+OK
+move 0 0
+attack 1 0 9
+move 1 2
+move 2 1
+move 3 2
+fuel 4 1
+move 4 2
+move 5 2
+fuel 6 2
+move 6 3
+fuel 7 1
+move 7 2
+OK
+fuel 0 2
+move 1 3
+fuel 2 6
+missile 2 1
+move 3 3
+move 4 3
+move 5 2
+move 6 1
+fuel 7 1
+move 7 3
+OK
+move 0 0
+move 1 2
+move 3 0
+fuel 4 2
+move 4 3
+move 5 1
+fuel 6 2
+move 6 3
+fuel 7 1
+move 7 2
+OK
+move 1 2
+move 2 2
+move 4 0
+move 5 3
+move 6 2
+fuel 7 1
+move 7 2
+OK
+move 0 3
+fuel 1 43
+missile 1 135
+move 1 0
+move 2 3
+move 3 3
+attack 4 0 8
+move 4 0
+move 5 2
+fuel 6 2
+move 6 3
+attack 7 2 1
+move 7 1
+OK
+move 0 0
+attack 1 0 4
+attack 1 2 2
+move 1 0
+fuel 2 2
+attack 4 2 1
+move 6 0
+attack 7 2 1
+move 7 2
+OK
+attack 0 0 4
+move 0 3
+attack 1 0 2
+move 1 1
+move 3 2
+move 4 3
+move 5 2
+fuel 6 2
+move 6 1
+attack 7 2 3
+move 7 2
+OK
+fuel 0 4
+missile 0 4
+move 0 1
+move 1 2
+move 2 3
+move 4 2
+move 5 3
+move 6 1
+attack 7 0 8
+attack 7 1 3
+attack 7 2 9
+move 7 2
+OK
+move 0 0
+move 1 3
+move 2 3
+move 5 3
+fuel 6 2
+attack 7 0 4
+attack 7 2 8
+move 7 2
+OK
+fuel 0 2
+move 0 0
+move 1 2
+move 2 2
+move 5 0
+move 6 2
+attack 7 1 3
+move 7 1
+OK
+attack 0 2 3
+move 0 2
+move 1 2
+move 2 0
+move 3 1
+move 5 1
+move 6 1
+attack 7 2 9
+move 7 2
+OK
+attack 0 2 1
+move 0 0
+attack 1 0 5
+move 1 3
+move 2 1
+move 3 0
+move 4 1
+move 6 2
+attack 7 2 1
+move 7 2
+OK
+move 0 3
+move 1 2
+move 2 3
+move 3 1
+move 4 2
+move 6 0
+attack 7 1 9
+attack 7 0 4
+move 7 3
+OK
+fuel 0 4
+missile 0 4
+move 0 0
+move 1 2
+move 2 0
+move 3 0
+move 4 3
+move 5 2
+move 6 3
+move 7 2
+OK
+move 0 2
+attack 1 0 4
+attack 1 2 2
+attack 1 1 8
+move 1 3
+move 2 3
+move 4 3
+move 5 0
+move 6 3
+move 7 1
+OK
+attack 0 0 3
+move 0 0
+move 1 1
+move 2 2
+move 3 3
+move 4 0
+move 5 2
+fuel 6 6
+move 7 2
+OK
+move 0 0
+move 1 3
+move 2 3
+move 4 2
+attack 5 2 9
+move 5 2
+move 6 0
+move 7 3
+OK
+move 0 1
+move 1 2
+move 2 2
+move 3 1
+move 4 3
+attack 5 0 3
+attack 5 2 7
+move 5 1
+move 7 0
+OK
+move 0 1
+move 1 2
+move 2 2
+move 3 0
+move 4 0
+move 7 2
+OK
+move 0 0
+attack 1 2 9
+move 1 3
+move 2 0
+move 3 1
+move 7 2
+OK
+move 0 3
+move 1 2
+move 2 2
+move 6 0
+fuel 7 17
+missile 7 63
+move 7 2
+OK
+move 0 0
+move 1 0
+move 2 2
+move 3 0
+fuel 6 2
+attack 7 2 3
+move 7 3
+OK
+move 0 0
+move 1 0
+move 2 2
+move 6 0
+fuel 7 2
+missile 7 3
+move 7 3
+OK
+move 0 0
+attack 1 2 9
+move 1 3
+move 2 2
+move 5 3
+fuel 6 1
+move 6 1
+move 7 2
+OK
+move 0 2
+attack 1 0 9
+move 1 2
+move 2 0
+move 5 2
+fuel 6 1
+move 6 0
+fuel 7 2
+move 7 2
+OK
+fuel 0 12
+missile 0 3
+move 0 0
+move 1 1
+move 2 2
+move 3 1
+move 5 3
+fuel 6 1
+move 6 1
+move 7 2
+OK
+fuel 0 1
+move 0 3
+move 1 2
+move 2 2
+move 4 3
+move 5 2
+fuel 6 1
+move 6 2
+attack 7 0 9
+move 7 0
+OK
+fuel 0 1
+move 0 1
+move 1 0
+attack 2 2 4
+move 2 2
+move 3 0
+fuel 4 14
+missile 4 9
+move 4 2
+move 5 0
+move 6 1
+move 7 2
+OK
+move 0 3
+attack 1 0 1
+move 1 3
+attack 2 0 7
+attack 2 1 9
+move 2 2
+move 3 2
+attack 4 2 9
+move 5 2
+fuel 6 2
+move 6 3
+move 7 0
+OK
+fuel 0 2
+move 0 0
+move 1 2
+attack 2 1 1
+move 2 3
+move 3 1
+attack 5 2 9
+move 5 0
+move 7 3
+OK
+fuel 0 1
+move 0 0
+move 1 2
+move 2 2
+move 3 2
+move 5 3
+move 7 3
+OK
+fuel 0 1
+move 0 1
+attack 1 0 6
+move 1 0
+move 2 1
+move 3 0
+move 4 3
+move 5 1
+fuel 7 7
+missile 7 9
+move 7 2
+OK
+fuel 0 1
+move 0 2
+attack 1 0 8
+move 1 2
+attack 2 1 9
+attack 2 2 7
+move 2 1
+attack 3 2 10
+move 3 3
+fuel 4 2
+missile 4 9
+move 4 2
+move 5 3
+move 6 1
+move 7 3
+OK
+fuel 0 1
+move 0 0
+move 1 2
+attack 2 1 10
+move 2 0
+attack 4 2 1
+move 4 2
+move 5 1
+fuel 6 2
+move 6 0
+fuel 7 2
+move 7 2
+OK
+fuel 0 1
+move 0 0
+attack 1 2 4
+move 1 2
+move 2 2
+move 4 2
+move 5 3
+move 7 3
+OK
+fuel 0 1
+move 0 2
+attack 1 0 1
+move 1 2
+move 2 0
+attack 4 2 2
+attack 4 1 2
+move 4 3
+fuel 7 2
+move 7 1
+OK
+move 0 0
+move 1 0
+attack 2 2 6
+move 2 0
+move 3 3
+move 4 1
+move 6 2
+move 7 1
+OK
+fuel 0 2
+move 0 0
+attack 1 0 7
+move 1 0
+fuel 2 30
+missile 2 53
+move 2 1
+move 4 3
+move 5 3
+fuel 6 2
+move 6 3
+move 7 0
+OK
+attack 0 2 4
+move 0 1
+attack 1 0 2
+attack 1 2 4
+move 1 2
+move 2 2
+move 3 2
+move 4 1
+move 5 0
+move 7 1
+OK
+fuel 0 2
+missile 0 4
+move 0 0
+move 1 0
+move 2 2
+move 3 2
+move 4 2
+move 5 3
+move 7 2
+OK
+move 0 1
+move 1 2
+attack 2 0 5
+attack 2 1 1
+move 2 1
+move 3 3
+move 4 0
+move 5 0
+move 6 0
+move 7 2
+OK
+fuel 0 2
+move 0 0
+move 1 3
+attack 2 1 6
+move 2 2
+move 4 2
+move 5 1
+fuel 6 2
+move 6 2
+move 7 2
+OK
+move 0 3
+move 1 0
+attack 2 2 1
+attack 2 1 8
+move 2 2
+move 3 3
+attack 4 2 4
+move 4 0
+move 5 3
+move 6 3
+move 7 0
+OK
+move 0 0
+move 1 2
+attack 2 0 3
+move 2 2
+move 4 1
+move 5 3
+fuel 6 2
+fuel 7 8
+move 7 3
+OK
+move 0 3
+fuel 1 40
+missile 1 87
+move 1 2
+move 2 3
+attack 5 0 4
+move 5 2
+move 6 2
+move 7 2
+OK
+attack 0 0 1
+move 0 1
+move 1 2
+move 2 1
+move 5 1
+move 6 3
+fuel 7 2
+move 7 3
+OK
+fuel 0 5
+missile 0 1
+move 0 0
+attack 1 2 10
+attack 1 1 1
+move 1 2
+move 2 2
+fuel 5 6
+missile 5 32
+move 5 2
+fuel 6 2
+move 6 0
+move 7 2
+OK
+move 0 3
+move 1 2
+move 2 0
+move 4 3
+fuel 5 35
+move 5 3
+fuel 6 1
+move 6 0
+fuel 7 2
+move 7 2
+OK
+attack 0 0 4
+move 1 0
+move 2 0
+move 4 2
+fuel 6 1
+move 6 0
+move 7 2
+OK
+move 1 1
+move 2 2
+move 3 1
+move 7 2
+OK
+move 1 0
+attack 2 2 8
+move 2 3
+move 3 2
+move 4 3
+move 5 3
+fuel 7 3
+move 7 2
+OK
+move 0 1
+move 1 3
+move 2 1
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+fuel 7 1
+move 7 2
+OK
+move 0 2
+move 1 2
+move 2 2
+move 3 1
+move 4 0
+fuel 6 2
+move 6 3
+attack 7 2 4
+move 7 2
+OK
+fuel 0 4
+missile 0 4
+move 0 2
+move 1 2
+attack 2 2 7
+move 2 0
+move 3 1
+move 4 2
+move 5 3
+attack 7 1 3
+move 7 2
+OK
+move 0 0
+move 1 1
+move 2 2
+move 3 0
+move 4 0
+move 6 1
+attack 7 2 3
+move 7 3
+OK
+move 0 0
+move 1 2
+attack 2 2 3
+move 2 2
+move 3 3
+move 4 1
+fuel 6 2
+move 7 2
+OK
+move 0 0
+attack 1 2 3
+move 1 1
+move 2 1
+move 3 0
+move 7 2
+OK
+move 0 1
+fuel 1 13
+missile 1 14
+move 1 2
+move 2 0
+move 7 2
+OK
+move 0 0
+attack 1 2 8
+move 1 2
+move 2 2
+move 4 2
+attack 7 1 1
+move 7 2
+OK
+move 0 2
+attack 1 2 6
+move 1 3
+move 2 2
+move 4 2
+move 6 1
+move 7 2
+OK
+fuel 0 7
+move 0 0
+move 1 2
+attack 2 0 2
+move 2 2
+move 4 2
+move 5 0
+fuel 6 1
+move 7 2
+OK
+attack 0 2 2
+move 0 3
+move 1 3
+move 2 2
+move 4 3
+move 5 1
+move 6 1
+attack 7 1 9
+move 7 2
+OK
+fuel 0 2
+missile 0 2
+move 0 1
+move 1 1
+fuel 2 25
+missile 2 44
+move 2 1
+move 4 2
+fuel 6 1
+move 6 2
+attack 7 1 1
+move 7 2
+OK
+move 0 1
+move 1 2
+fuel 2 1
+move 2 2
+move 4 0
+move 6 3
+attack 7 0 1
+attack 7 1 4
+move 7 2
+OK
+move 0 0
+attack 1 2 6
+move 1 2
+fuel 2 1
+move 2 0
+move 3 2
+move 4 2
+fuel 6 2
+attack 7 0 2
+attack 7 1 10
+move 7 0
+OK
+move 0 0
+attack 1 1 1
+move 1 2
+fuel 2 1
+move 2 2
+move 3 3
+move 4 0
+move 7 2
+OK
+fuel 0 4
+move 0 2
+attack 1 0 8
+attack 1 1 2
+attack 1 2 2
+move 1 2
+fuel 2 1
+move 2 3
+move 4 0
+move 7 2
+OK
+move 0 2
+attack 1 1 8
+move 1 2
+fuel 2 1
+move 2 3
+move 4 2
+move 5 2
+attack 7 1 2
+move 7 1
+OK
+attack 0 0 4
+move 0 1
+move 1 2
+fuel 2 1
+move 2 2
+move 4 0
+move 6 2
+attack 7 2 8
+attack 7 1 2
+move 7 0
+OK
+move 0 0
+fuel 1 5
+missile 1 41
+move 1 3
+fuel 2 1
+move 2 2
+move 6 3
+move 7 3
+OK
+move 0 3
+move 1 2
+fuel 2 1
+move 2 2
+move 3 2
+move 4 2
+fuel 6 2
+move 7 3
+OK
+move 0 2
+move 1 2
+move 3 2
+move 4 2
+move 6 2
+move 7 1
+OK
+move 0 1
+move 1 2
+move 4 0
+move 5 0
+move 6 3
+move 7 1
+OK
+move 0 3
+attack 1 0 8
+move 4 2
+move 5 1
+fuel 6 2
+move 6 1
+attack 7 2 2
+move 7 1
+OK
+fuel 0 8
+missile 0 4
+move 0 3
+move 1 3
+move 2 3
+move 4 1
+move 7 2
+OK
+move 0 0
+move 1 3
+fuel 2 2
+move 2 1
+move 5 0
+move 6 1
+attack 7 2 4
+move 7 2
+OK
+fuel 0 2
+move 0 0
+missile 1 8
+move 1 2
+move 2 1
+move 4 1
+move 5 2
+fuel 6 2
+move 6 1
+attack 7 2 8
+move 7 0
+OK
+move 0 0
+move 1 2
+move 2 2
+move 3 2
+move 4 2
+move 5 0
+move 6 2
+move 7 2
+OK
+fuel 0 2
+move 0 0
+move 4 2
+move 5 1
+move 6 0
+move 7 2
+OK
+fuel 0 1
+move 0 0
+move 2 1
+move 4 3
+move 5 1
+move 6 3
+attack 7 2 5
+move 7 2
+OK
+fuel 0 1
+move 1 1
+move 4 1
+fuel 5 14
+fuel 6 4
+attack 7 1 4
+move 7 3
+OK
+move 1 1
+move 3 1
+move 4 2
+move 7 3
+OK
+move 1 1
+move 2 3
+attack 3 2 8
+move 3 0
+move 4 2
+move 6 2
+move 7 2
+OK
+move 1 1
+move 2 2
+move 4 2
+move 6 3
+move 7 2
+OK
+move 1 0
+fuel 4 4
+missile 4 9
+move 4 2
+fuel 6 2
+move 7 0
+OK
+move 1 3
+move 2 0
+attack 4 1 7
+move 4 2
+move 6 2
+attack 7 2 6
+move 7 2
+OK
+move 1 2
+move 2 1
+attack 4 1 2
+move 4 2
+move 6 3
+attack 7 0 7
+move 7 0
+OK
+move 0 1
+move 3 2
+move 4 3
+move 5 3
+fuel 6 2
+attack 7 0 7
+attack 7 2 9
+move 7 2
+OK
+fuel 0 1
+move 0 0
+attack 3 2 1
+move 3 2
+move 4 2
+move 5 3
+move 7 2
+OK
+fuel 0 1
+move 1 1
+attack 3 1 6
+move 6 0
+attack 7 1 5
+move 7 2
+OK
+move 1 1
+move 4 0
+move 7 1
+OK
+move 2 0
+move 4 2
+move 6 2
+attack 7 2 2
+attack 7 1 9
+move 7 2
+OK
+move 1 3
+move 3 2
+move 4 3
+move 5 0
+fuel 6 2
+move 6 2
+OK
+move 1 2
+attack 3 1 9
+move 4 1
+move 5 1
+fuel 6 1
+move 6 3
+OK
+move 0 1
+move 3 3
+move 5 2
+fuel 6 1
+move 6 1
+move 7 0
+OK
+fuel 0 1
+move 0 0
+move 1 1
+move 2 3
+move 3 1
+move 5 3
+move 6 3
+OK
+fuel 0 1
+move 0 1
+move 2 3
+move 3 1
+move 4 0
+fuel 6 2
+OK
+fuel 0 1
+move 0 2
+fuel 2 11
+move 2 0
+move 3 0
+move 4 2
+move 7 3
+OK
+move 0 0
+fuel 2 1
+move 2 2
+move 3 0
+move 4 2
+move 5 2
+move 6 2
+move 7 0
+OK
+attack 0 2 4
+move 2 2
+move 4 2
+move 6 3
+move 7 2
+OK
+fuel 4 53
+missile 4 9
+move 4 2
+move 5 2
+fuel 6 2
+fuel 7 45
+missile 7 118
+OK
+move 2 3
+fuel 4 1
+move 4 2
+fuel 5 8
+OK
+move 0 1
+move 2 2
+attack 4 2 7
+attack 4 1 2
+move 4 0
+move 5 0
+OK
+move 0 1
+move 2 0
+move 4 0
+move 5 0
+move 7 0
+OK
+move 0 3
+move 4 0
+move 5 2
+move 7 3
+OK
+fuel 0 5
+missile 0 4
+move 0 0
+move 3 1
+move 4 2
+move 5 1
+move 6 1
+move 7 1
+OK
+fuel 0 1
+move 0 0
+move 1 3
+move 3 0
+move 4 2
+move 5 1
+move 6 2
+move 7 2
+OK
+fuel 0 1
+fuel 1 28
+move 1 2
+move 4 0
+move 5 0
+move 6 3
+fuel 7 4
+OK
+move 1 3
+move 3 1
+move 4 0
+move 5 1
+move 6 1
+OK
+fuel 1 2
+move 1 2
+move 3 0
+move 4 2
+move 5 2
+fuel 6 4
+move 7 1
+OK
+move 2 1
+move 4 2
+OK
+move 0 2
+move 1 0
+move 5 0
+move 6 0
+OK
+attack 0 2 2
+move 1 1
+move 3 2
+move 5 1
+move 6 1
+OK
+fuel 6 2
+OK
+move 0 2
+move 5 2
+move 7 1
+OK
+move 1 3
+OK
+move 0 1
+fuel 1 4
+move 1 2
+move 6 1
+move 7 0
+OK
+move 0 0
+move 6 2
+move 7 0
+OK
+move 1 3
+move 5 3
+move 6 3
+fuel 7 4
+OK
+move 0 1
+fuel 1 2
+move 1 2
+move 3 3
+move 5 2
+OK
+move 0 1
+move 1 0
+move 4 3
+move 7 1
+OK
+move 0 0
+move 4 2
+move 6 2
+OK
+move 0 0
+move 3 3
+move 5 3
+move 6 1
+OK
+fuel 6 5
+move 6 3
+OK
+move 2 1
+OK
+move 1 3
+move 2 0
+OK
+move 1 0
+move 6 1
+OK
+fuel 1 4
+move 1 2
+move 3 1
+move 5 3
+move 6 1
+OK
+move 2 3
+move 3 1
+attack 6 1 8
+move 7 3
+OK
+move 2 2
+move 3 0
+move 4 0
+move 6 2
+move 7 2
+OK
+move 0 3
+move 1 1
+move 2 0
+move 3 2
+move 4 3
+attack 6 1 3
+move 6 3
+OK
+move 3 0
+move 4 2
+move 6 2
+OK
+move 4 2
+move 6 0
+OK
+move 4 2
+fuel 6 7
+missile 6 11
+move 6 3
+OK
+move 4 1
+move 6 2
+OK
+move 1 0
+move 3 3
+move 4 1
+move 5 2
+fuel 6 2
+move 6 3
+move 7 1
+OK
+move 1 0
+move 2 3
+move 4 2
+OK
+fuel 2 12
+move 2 2
+move 4 2
+move 7 0
+OK
+move 0 3
+move 1 0
+move 4 2
+move 5 2
+move 6 1
+move 7 3
+OK
+fuel 0 10
+missile 0 2
+move 2 3
+move 4 2
+move 6 0
+move 7 1
+OK
+fuel 2 2
+move 2 2
+move 4 2
+move 7 3
+OK
+move 2 1
+move 4 2
+move 6 1
+move 7 0
+OK
+move 1 3
+move 4 0
+move 7 2
+OK
+fuel 1 6
+move 1 2
+move 3 3
+move 4 2
+move 5 3
+move 7 2
+OK
+move 1 3
+move 3 2
+move 4 1
+OK
+fuel 1 2
+move 1 2
+move 4 2
+OK
+move 4 2
+move 7 1
+OK
+move 1 1
+move 2 3
+move 4 2
+OK
+move 1 0
+move 2 2
+fuel 4 31
+missile 4 9
+move 4 0
+OK
+move 0 1
+move 1 1
+move 2 3
+move 3 2
+move 4 1
+move 5 2
+OK
+fuel 0 1
+move 0 0
+move 2 2
+fuel 4 2
+move 4 2
+OK
+fuel 0 1
+move 2 3
+move 3 3
+move 4 2
+move 5 0
+move 6 2
+move 7 1
+OK
+move 0 1
+move 2 0
+move 4 0
+move 5 1
+move 6 3
+OK
+fuel 0 1
+move 0 0
+move 1 3
+fuel 2 8
+move 2 2
+move 5 3
+move 6 2
+OK
+fuel 0 1
+move 1 2
+move 6 3
+OK
+move 0 3
+move 3 2
+OK
+move 5 2
+OK
+move 0 2
+OK
+fuel 0 2
+move 5 3
+OK
+OK
+move 0 1
+move 1 1
+move 2 1
+move 5 3
+OK
+fuel 0 1
+move 0 0
+move 2 0
+move 5 2
+OK
+fuel 0 1
+move 0 1
+move 1 1
+move 2 0
+move 6 0
+move 7 1
+OK
+fuel 0 1
+move 0 0
+fuel 2 4
+move 5 0
+fuel 7 14
+OK
+fuel 0 1
+move 4 3
+move 5 1
+move 7 0
+OK
+move 4 2
+move 5 2
+move 6 0
+OK
+move 0 1
+move 1 3
+move 2 0
+OK
+fuel 0 1
+move 0 0
+move 1 2
+fuel 2 1
+move 2 3
+move 6 0
+OK
+fuel 0 1
+move 1 3
+move 2 2
+move 6 0
+move 7 0
+OK
+move 1 2
+fuel 2 2
+fuel 6 12
+move 7 0
+OK
+move 4 0
+move 7 1
+OK
+move 3 3
+move 5 0
+OK
+move 0 1
+move 1 1
+move 5 1
+OK
+fuel 0 1
+move 0 0
+move 5 2
+move 6 0
+OK
+fuel 0 1
+move 5 3
+move 7 0
+OK
+move 2 0
+move 5 2
+move 6 0
+OK
+move 5 2
+fuel 6 2
+OK
+OK
+move 1 0
+move 3 1
+OK
+move 2 1
+move 3 2
+move 6 2
+move 7 0
+OK
+move 0 3
+fuel 2 2
+move 3 0
+move 5 0
+move 6 3
+fuel 7 6
+OK
+move 4 0
+move 5 2
+fuel 6 2
+move 6 2
+OK
+move 2 0
+move 5 1
+move 6 3
+OK
+fuel 6 2
+move 6 0
+move 7 0
+OK
+move 1 1
+move 3 3
+move 6 0
+OK
+move 1 0
+fuel 6 2
+OK
+move 3 2
+move 6 2
+OK
+move 1 3
+move 6 3
+OK
+move 1 2
+move 2 3
+fuel 6 2
+OK
+move 2 2
+OK
+OK
+move 1 0
+move 2 1
+move 3 3
+move 7 1
+OK
+fuel 2 4
+fuel 7 2
+OK
+move 2 1
+move 3 3
+move 5 0
+OK
+fuel 2 1
+move 5 1
+move 6 2
+OK
+move 3 3
+move 6 3
+OK
+fuel 6 2
+OK
+move 0 1
+move 1 3
+move 6 2
+OK
+move 0 0
+fuel 1 20
+move 1 2
+move 6 3
+OK
+move 0 3
+move 2 3
+move 3 3
+fuel 6 2
+OK
+fuel 0 4
+move 0 1
+fuel 2 1
+move 2 2
+move 7 3
+OK
+fuel 0 1
+move 0 0
+fuel 2 1
+move 7 2
+OK
+fuel 0 1
+fuel 7 2
+OK
+move 0 3
+move 7 0
+OK
+move 4 3
+move 5 3
+OK
+move 3 3
+move 4 0
+OK
+move 2 0
+move 4 1
+move 7 0
+OK
+fuel 2 1
+move 4 2
+move 6 1
+move 7 3
+OK
+move 0 2
+move 1 0
+move 2 1
+move 6 2
+move 7 1
+OK
+fuel 0 2
+move 0 2
+fuel 2 1
+fuel 6 2
+move 6 3
+move 7 2
+OK
+move 3 1
+move 4 3
+move 5 0
+move 7 3
+OK
+move 2 1
+move 3 0
+move 4 2
+move 5 1
+move 6 0
+move 7 3
+OK
+move 4 3
+fuel 6 2
+move 7 2
+OK
+move 2 3
+move 4 1
+move 6 2
+move 7 2
+OK
+fuel 2 2
+move 2 2
+move 4 2
+move 6 3
+OK
+fuel 6 2
+OK
+move 0 2
+move 1 0
+move 7 0
+OK
+fuel 0 2
+move 0 3
+move 3 1
+OK
+move 0 3
+move 2 1
+move 3 0
+move 6 2
+OK
+fuel 0 2
+move 4 1
+move 5 3
+move 6 3
+OK
+move 2 3
+move 5 3
+fuel 6 2
+OK
+move 2 3
+OK
+fuel 2 4
+move 2 2
+move 3 1
+move 4 0
+OK
+move 2 2
+move 3 0
+OK
+move 0 2
+move 4 0
+move 5 0
+OK
+move 2 0
+move 5 1
+OK
+move 3 1
+OK
+move 0 1
+move 3 2
+move 4 0
+move 7 1
+OK
+move 0 0
+move 3 0
+move 5 2
+OK
+move 1 1
+move 2 1
+move 7 1
+OK
+fuel 7 12
+OK
+move 3 1
+move 7 1
+OK
+move 3 1
+move 4 1
+OK
+move 0 1
+move 3 0
+move 5 3
+OK
+move 0 3
+move 3 0
+move 5 3
+OK
+fuel 0 5
+move 0 0
+move 1 1
+move 4 0
+OK
+fuel 0 1
+move 4 1
+OK
+move 0 1
+OK
+fuel 0 1
+move 0 0
+move 2 1
+move 5 3
+OK
+fuel 0 1
+move 1 1
+OK
+move 6 2
+OK
+move 3 3
+move 4 1
+move 6 3
+OK
+fuel 6 2
+OK
+OK
+OK
+move 4 0
+move 7 0
+OK
+move 2 1
+fuel 7 2
+move 7 0
+OK
+move 1 0
+move 4 1
+move 7 1
+OK
+move 3 1
+move 4 3
+fuel 7 2
+OK
+move 3 0
+move 4 2
+OK
+OK
+move 0 3
+OK
+move 4 3
+OK
+move 2 3
+move 4 2
+OK
+move 1 1
+OK
+move 2 2
+OK
+OK
+move 3 2
+move 4 3
+OK
+move 1 0
+move 4 2
+OK
+move 0 1
+move 3 1
+OK
+move 0 0
+move 3 0
+OK
+OK
+move 1 1
+OK
+move 2 0
+move 3 2
+move 6 0
+OK
+fuel 6 1
+OK
+move 4 0
+OK
+move 7 0
+OK
+OK
+move 7 0
+OK
+move 0 2
+move 3 1
+OK
+fuel 0 4
+move 2 0
+move 3 0
+move 4 1
+move 5 2
+OK
+move 1 3
+move 4 3
+move 6 0
+OK
+move 1 2
+move 3 3
+move 4 2
+fuel 6 1
+move 7 3
+OK
+move 7 2
+OK
+move 0 1
+OK
+fuel 0 1
+move 0 0
+OK
+fuel 0 1
+move 0 2
+move 6 2
+OK
+fuel 6 1
+move 6 3
+OK
+fuel 6 1
+move 7 1
+OK
+OK
+OK
+move 6 1
+OK
+fuel 6 1
+OK
+OK
+move 6 1
+move 7 0
+OK
+move 2 3
+move 4 3
+fuel 6 1
+OK
+move 2 2
+move 3 2
+move 4 2
+move 5 0
+OK
+move 5 1
+move 6 1
+OK
+move 1 3
+OK
+move 0 2
+move 1 3
+move 4 1
+OK
+fuel 0 2
+move 1 2
+OK
+move 1 2
+move 4 3
+move 7 1
+OK
+move 3 3
+move 4 2
+OK
+move 5 3
+OK
+move 5 3
+OK
+move 1 3
+move 3 3
+fuel 5 56
+OK
+move 1 2
+move 5 2
+OK
+move 7 3
+OK
+move 2 1
+move 3 1
+move 7 2
+OK
+move 3 0
+OK
+OK
+move 6 2
+OK
+fuel 6 2
+move 6 3
+OK
+OK
+OK
+move 1 0
+move 6 0
+OK
+move 1 0
+move 5 3
+fuel 6 2
+OK
+move 0 3
+fuel 5 2
+move 7 0
+OK
+OK
+OK
+OK
+OK
+move 5 0
+OK
+move 4 0
+move 5 1
+OK
+move 4 3
+fuel 5 2
+move 5 3
+OK
+move 4 2
+OK
+move 1 1
+OK
+OK
+move 1 1
+move 2 1
+OK
+move 2 3
+move 4 0
+OK
+move 2 2
+OK
+OK
+move 1 3
+move 3 1
+move 6 1
+OK
+move 1 2
+move 3 0
+move 5 0
+OK
+move 0 3
+move 5 1
+move 7 0
+OK
+fuel 0 2
+move 0 3
+OK
+OK
+move 3 1
+OK
+move 3 2
+move 5 0
+OK
+move 0 1
+move 3 0
+move 5 1
+move 7 0
+OK
+move 0 0
+OK
+move 5 2
+OK
+move 1 1
+fuel 5 6
+OK
+move 1 1
+move 6 0
+OK
+move 2 0
+fuel 6 2
+OK
+OK
+move 6 1
+OK
+move 3 3
+move 6 1
+OK
+move 3 2
+fuel 6 2
+OK
+OK
+move 7 0
+OK
+move 7 1
+OK
+OK
+move 4 1
+OK
+OK
+move 0 2
+move 1 1
+move 3 2
+move 6 0
+move 7 0
+OK
+fuel 0 4
+OK
+OK
+move 0 2
+OK
+OK
+OK
+OK
+OK
+move 0 1
+OK
+move 0 0
+move 3 1
+move 5 3
+move 7 1
+OK
+move 3 2
+OK
+move 2 3
+move 3 0
+OK
+move 2 2
+OK
+move 7 1
+OK
+OK
+move 1 0
+OK
+move 2 1
+move 3 2
+OK
+move 1 0
+OK
+move 3 2
+OK
+OK
+OK
+OK
+OK
+move 1 3
+OK
+fuel 1 30
+move 1 2
+move 6 0
+OK
+move 2 0
+fuel 6 2
+OK
+OK
+OK
+OK
+OK
+move 4 1
+OK
+OK
+move 4 1
+OK
+OK
+move 2 3
+OK
+move 2 2
+OK
+move 2 1
+move 7 0
+OK
+move 6 1
+OK
+move 4 0
+OK
+move 6 2
+OK
+move 0 2
+fuel 6 2
+move 6 3
+OK
+fuel 0 4
+move 5 2
+OK
+fuel 5 2
+OK
+OK
+OK
+move 2 3
+move 4 3
+OK
+move 2 2
+move 4 2
+OK
+move 5 3
+OK
+move 6 0
+OK
+move 5 2
+fuel 6 2
+OK
+fuel 5 2
+OK
+move 2 3
+OK
+move 2 2
+OK
+move 5 3
+OK
+OK
+OK
+move 0 3
+move 7 0
+OK
+OK
+OK
+OK
+move 4 1
+OK
+OK
+OK
+OK
+move 1 0
+OK
+OK
+move 3 1
+OK
+move 1 0
+move 3 1
+OK
+move 3 0
+move 5 2
+move 6 0
+OK
+move 3 0
+fuel 5 2
+fuel 6 1
+OK
+OK
+move 3 3
+OK
+OK
+move 7 0
+OK
+OK
+move 1 3
+OK
+fuel 1 4
+move 1 2
+OK
+move 0 1
+OK
+move 0 0
+move 3 2
+move 4 1
+OK
+OK
+move 7 3
+OK
+fuel 7 21
+move 7 2
+OK
+OK
+OK
+OK
+OK
+move 0 3
+OK
+fuel 0 4
+move 5 3
+OK
+move 3 1
+OK
+move 3 0
+move 4 3
+OK
+fuel 4 54
+move 4 2
+OK
+OK
+OK
+OK
+OK
+move 3 3
+move 7 1
+OK
+OK
+OK
+move 7 3
+OK
+move 7 2
+OK
+OK
+move 2 0
+OK
+OK
+OK
+move 2 0
+OK
+move 5 2
+OK
+fuel 5 2
+OK
+move 0 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 2
+OK
+move 0 2
+OK
+fuel 0 2
+OK
+move 7 0
+OK
+move 7 0
+OK
+OK
+move 3 1
+OK
+move 3 0
+OK
+move 0 1
+OK
+fuel 0 1
+move 0 0
+OK
+fuel 0 1
+OK
+OK
+OK
+OK
+move 0 3
+OK
+move 0 1
+OK
+move 0 0
+OK
+OK
+move 6 0
+OK
+fuel 6 1
+OK
+move 3 2
+OK
+move 1 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 0
+OK
+fuel 7 7
+OK
+OK
+OK
+OK
+OK
+move 1 3
+OK
+move 1 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 2
+OK
+attack 3 2 1
+attack 3 1 5
+OK
+OK
+move 7 1
+OK
+move 1 1
+OK
+OK
+OK
+move 4 0
+OK
+OK
+move 2 0
+OK
+OK
+OK
+OK
+OK
+move 5 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 4 0
+OK
+move 3 3
+OK
+move 7 1
+OK
+OK
+OK
+OK
+move 6 1
+OK
+fuel 6 1
+OK
+OK
+move 3 2
+OK
+OK
+move 2 3
+move 7 1
+OK
+move 0 3
+fuel 2 32
+move 2 2
+OK
+fuel 0 4
+OK
+move 2 0
+OK
+fuel 2 2
+OK
+OK
+move 2 3
+OK
+fuel 2 1
+move 2 2
+move 5 3
+OK
+fuel 2 1
+fuel 5 2
+OK
+OK
+move 0 2
+move 5 0
+OK
+move 5 1
+OK
+move 2 3
+fuel 5 2
+OK
+fuel 2 1
+move 2 2
+OK
+fuel 2 1
+move 2 1
+OK
+move 1 0
+OK
+OK
+OK
+OK
+move 0 2
+OK
+fuel 0 2
+move 0 3
+OK
+OK
+OK
+OK
+OK
+move 7 1
+OK
+OK
+OK
+move 3 3
+OK
+OK
+OK
+move 1 3
+OK
+move 1 2
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 0
+move 3 2
+OK
+fuel 2 2
+OK
+OK
+move 3 2
+OK
+move 0 1
+attack 3 1 4
+OK
+move 0 0
+OK
+OK
+OK
+move 6 1
+move 7 0
+OK
+fuel 6 1
+OK
+OK
+OK
+move 2 3
+move 5 2
+OK
+fuel 2 1
+move 2 2
+OK
+fuel 2 1
+move 4 0
+OK
+OK
+OK
+OK
+move 0 2
+OK
+fuel 0 4
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 2
+OK
+move 6 3
+OK
+fuel 6 2
+OK
+OK
+OK
+OK
+OK
+move 5 3
+OK
+fuel 5 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 0 3
+OK
+OK
+OK
+OK
+OK
+move 6 0
+OK
+fuel 6 1
+OK
+move 5 3
+OK
+move 6 2
+OK
+move 3 1
+move 6 3
+OK
+attack 3 1 1
+move 3 0
+fuel 6 2
+OK
+OK
+OK
+OK
+OK
+move 6 1
+OK
+fuel 6 1
+OK
+OK
+OK
+OK
+OK
+OK
+move 0 2
+move 2 0
+OK
+fuel 0 2
+fuel 2 1
+move 7 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 2
+OK
+move 6 3
+OK
+fuel 6 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 1
+OK
+OK
+OK
+OK
+OK
+move 4 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 0 2
+move 6 2
+OK
+fuel 6 2
+move 6 3
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 1
+OK
+move 3 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 1 0
+OK
+OK
+OK
+OK
+OK
+move 2 1
+OK
+fuel 2 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 0
+OK
+fuel 2 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 3
+OK
+move 7 2
+OK
+move 6 1
+OK
+fuel 6 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 0
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 1
+move 3 2
+OK
+fuel 2 1
+attack 3 2 4
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 1
+OK
+attack 3 1 2
+move 3 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 0 3
+OK
+fuel 0 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 3
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 1
+OK
+move 3 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 4 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 2
+OK
+fuel 5 4
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 1 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+fuel 0 444
+missile 0 4
+move 0 1
+fuel 1 203
+missile 1 276
+move 1 2
+fuel 2 491
+missile 2 790
+move 2 3
+fuel 3 87
+missile 3 106
+move 3 0
+fuel 4 440
+missile 4 9
+move 4 2
+fuel 5 47
+missile 5 803
+move 5 0
+fuel 6 184
+missile 6 246
+move 6 1
+fuel 7 248
+missile 7 783
+move 7 1
+OK
+attack 0 2 3
+attack 0 1 1
+fuel 1 1
+move 1 3
+fuel 2 1
+move 2 2
+fuel 3 153
+move 4 1
+fuel 5 103
+missile 5 114
+move 5 2
+fuel 6 1
+move 6 0
+fuel 7 1
+move 7 2
+OK
+move 0 0
+fuel 1 1
+move 1 3
+fuel 2 1
+move 2 2
+move 3 1
+fuel 4 2
+move 4 1
+attack 5 0 8
+move 5 1
+fuel 6 1
+move 6 0
+move 7 3
+OK
+fuel 0 2
+missile 0 4
+move 0 1
+attack 1 0 5
+attack 1 1 9
+move 1 0
+attack 2 2 2
+move 2 0
+move 3 1
+fuel 4 1
+move 4 3
+move 5 1
+fuel 6 1
+move 6 1
+fuel 7 2
+move 7 3
+OK
+attack 0 1 4
+attack 1 0 4
+move 1 2
+move 2 0
+fuel 3 2
+fuel 4 1
+move 4 1
+fuel 5 3
+missile 5 8
+move 5 3
+fuel 6 1
+move 6 0
+fuel 7 1
+move 7 3
+OK
+move 1 0
+fuel 2 3
+missile 2 2
+move 2 3
+move 3 0
+fuel 4 1
+move 4 2
+move 5 0
+fuel 6 1
+move 6 1
+move 7 3
+OK
+move 0 2
+attack 1 0 8
+move 1 0
+move 2 3
+move 3 1
+move 4 0
+move 5 2
+fuel 6 1
+move 6 1
+fuel 7 2
+move 7 2
+OK
+move 0 2
+attack 1 0 2
+move 1 2
+move 2 0
+fuel 3 2
+move 3 2
+fuel 4 2
+move 4 1
+move 5 2
+fuel 6 1
+move 6 3
+move 7 0
+OK
+move 0 2
+attack 1 0 4
+move 1 2
+fuel 2 3
+move 2 2
+move 3 3
+move 4 1
+move 5 3
+fuel 6 1
+move 6 2
+fuel 7 2
+move 7 0
+OK
+fuel 0 4
+missile 0 4
+move 0 3
+attack 1 2 2
+move 1 2
+move 2 1
+fuel 3 2
+move 3 1
+move 4 0
+move 5 1
+fuel 6 1
+move 6 2
+move 7 2
+OK
+move 0 2
+attack 1 0 2
+attack 1 2 4
+attack 1 1 10
+move 1 0
+move 2 1
+fuel 3 1
+move 3 2
+move 4 1
+fuel 5 6
+move 5 3
+move 6 3
+fuel 7 2
+move 7 0
+OK
+fuel 0 2
+move 0 3
+attack 1 2 9
+move 1 2
+move 2 3
+move 3 1
+move 4 3
+move 5 2
+fuel 6 2
+move 6 3
+move 7 2
+OK
+move 0 1
+attack 1 0 8
+move 1 1
+move 2 3
+move 3 3
+fuel 5 2
+move 5 1
+fuel 6 1
+move 6 3
+fuel 7 2
+move 7 3
+OK
+move 0 3
+move 1 2
+fuel 2 5
+move 2 1
+move 3 0
+attack 5 2 4
+attack 5 1 4
+move 5 1
+fuel 6 1
+move 6 2
+move 7 3
+OK
+attack 0 1 4
+attack 1 2 5
+move 1 2
+fuel 2 1
+move 2 2
+fuel 3 4
+move 3 1
+move 4 0
+attack 5 2 2
+fuel 6 1
+move 6 1
+attack 7 0 10
+OK
+move 0 2
+attack 1 0 9
+attack 1 2 9
+move 1 0
+fuel 2 1
+move 2 0
+move 3 2
+fuel 4 6
+move 4 3
+move 5 0
+fuel 6 1
+move 6 0
+OK
+move 0 1
+attack 1 0 1
+attack 1 2 2
+move 1 0
+move 2 3
+move 3 0
+attack 4 1 3
+move 4 3
+move 5 1
+fuel 6 1
+move 6 0
+move 7 0
+OK
+move 0 0
+attack 1 2 4
+move 1 2
+fuel 2 2
+move 2 2
+move 3 2
+attack 4 1 6
+fuel 6 1
+move 6 3
+attack 7 0 5
+move 7 2
+OK
+move 0 2
+attack 1 0 9
+attack 1 2 7
+move 1 2
+move 2 0
+move 3 0
+move 4 0
+move 6 1
+attack 7 0 7
+move 7 2
+OK
+attack 1 0 9
+attack 1 1 10
+move 1 0
+move 2 2
+move 3 0
+fuel 6 2
+move 6 2
+move 7 1
+OK
+attack 1 0 5
+move 1 1
+move 2 0
+move 3 1
+fuel 6 1
+move 6 1
+fuel 7 6
+missile 7 22
+move 7 0
+OK
+move 0 0
+move 1 2
+move 2 3
+move 3 2
+move 4 1
+fuel 6 1
+move 6 3
+move 7 3
+OK
+fuel 0 8
+missile 0 4
+move 0 3
+move 1 1
+fuel 2 5
+move 2 3
+move 3 0
+move 5 3
+move 6 3
+move 7 2
+OK
+move 0 0
+attack 1 1 4
+move 1 2
+attack 2 0 9
+move 2 2
+move 3 0
+move 5 2
+fuel 6 2
+move 6 1
+move 7 2
+OK
+move 0 3
+fuel 1 4
+missile 1 141
+move 1 2
+fuel 2 2
+missile 2 9
+move 2 3
+move 3 3
+move 6 1
+move 7 2
+OK
+move 0 2
+attack 1 1 7
+move 1 1
+move 2 0
+attack 3 0 6
+move 3 0
+move 4 2
+move 5 0
+move 6 2
+move 7 1
+OK
+move 0 2
+attack 1 2 9
+move 1 2
+move 2 3
+move 3 0
+move 4 3
+move 5 1
+fuel 6 3
+move 6 1
+fuel 7 6
+move 7 0
+OK
+move 0 0
+attack 1 1 5
+move 1 2
+move 2 0
+move 3 1
+move 4 0
+move 5 3
+move 6 1
+move 7 3
+OK
+move 0 1
+attack 1 2 8
+attack 1 1 1
+move 1 2
+move 2 2
+move 3 1
+move 4 2
+move 6 3
+move 7 2
+OK
+attack 1 0 10
+attack 1 1 6
+attack 1 2 4
+move 1 0
+attack 2 0 3
+move 2 1
+move 3 1
+fuel 4 8
+missile 4 9
+move 4 0
+move 5 3
+attack 6 1 10
+move 6 0
+move 7 2
+OK
+move 0 0
+attack 1 0 9
+move 1 2
+move 2 2
+move 3 3
+fuel 4 1
+move 4 1
+fuel 5 10
+missile 5 10
+move 6 0
+fuel 7 4
+move 7 1
+OK
+move 1 2
+move 2 2
+move 3 0
+fuel 4 1
+move 4 2
+move 5 0
+move 6 0
+move 7 3
+OK
+move 0 0
+fuel 1 26
+missile 1 59
+move 1 2
+attack 2 0 9
+move 2 3
+attack 3 0 9
+move 3 0
+fuel 4 1
+move 4 2
+move 5 1
+move 6 0
+fuel 7 2
+move 7 2
+OK
+move 0 1
+attack 1 2 2
+move 1 0
+move 2 2
+attack 3 0 2
+move 3 2
+fuel 4 1
+move 4 1
+fuel 5 2
+move 5 3
+fuel 6 7
+missile 6 10
+move 6 0
+move 7 1
+OK
+move 0 0
+fuel 1 2
+missile 1 2
+move 1 0
+move 2 2
+move 3 0
+move 4 2
+fuel 5 1
+move 5 0
+attack 6 0 2
+move 6 3
+move 7 2
+OK
+move 1 1
+move 2 3
+move 3 3
+fuel 4 2
+move 4 0
+move 5 2
+move 6 1
+fuel 7 3
+move 7 0
+OK
+move 0 0
+fuel 1 2
+move 1 3
+move 2 1
+attack 3 0 3
+move 3 3
+fuel 4 1
+move 4 2
+move 5 1
+fuel 6 3
+missile 6 2
+move 6 1
+fuel 7 1
+move 7 0
+OK
+move 0 0
+fuel 1 1
+move 1 0
+move 2 2
+move 3 2
+move 4 2
+fuel 5 3
+move 6 3
+move 7 1
+OK
+fuel 1 1
+move 1 2
+fuel 2 14
+missile 2 12
+move 2 2
+move 3 0
+attack 4 2 9
+move 4 3
+move 6 3
+fuel 7 2
+move 7 2
+OK
+move 0 0
+move 1 3
+fuel 2 1
+move 2 2
+attack 3 0 3
+move 3 0
+move 4 0
+move 5 3
+move 6 0
+fuel 7 1
+move 7 2
+OK
+move 0 1
+fuel 1 2
+move 1 3
+attack 2 2 8
+attack 2 1 9
+move 2 1
+move 3 0
+fuel 4 4
+missile 4 9
+move 4 2
+fuel 5 1
+move 6 0
+fuel 7 1
+move 7 3
+OK
+move 0 0
+move 1 1
+move 2 1
+attack 3 0 9
+attack 3 2 8
+move 3 2
+fuel 4 1
+move 4 2
+move 6 3
+fuel 7 1
+move 7 2
+OK
+move 0 1
+move 1 0
+attack 2 2 4
+move 2 0
+attack 3 0 9
+attack 3 2 5
+move 3 0
+move 4 2
+move 5 2
+fuel 6 6
+fuel 7 1
+move 7 3
+OK
+move 2 1
+attack 3 0 2
+move 3 3
+attack 4 2 1
+move 4 0
+fuel 5 1
+move 5 3
+move 6 1
+fuel 7 1
+move 7 2
+OK
+move 1 1
+move 2 2
+attack 3 0 6
+move 3 2
+fuel 4 3
+missile 4 1
+move 4 0
+fuel 5 1
+move 6 1
+fuel 7 1
+move 7 0
+OK
+move 0 0
+move 1 1
+move 2 1
+move 3 2
+attack 4 2 5
+move 4 3
+move 5 2
+attack 6 1 8
+attack 7 0 3
+move 7 0
+OK
+move 0 3
+move 1 2
+move 2 2
+move 3 3
+fuel 4 2
+missile 4 5
+move 4 2
+fuel 5 1
+move 5 0
+move 6 2
+move 7 2
+OK
+fuel 0 19
+move 0 0
+fuel 1 6
+move 1 2
+fuel 2 8
+missile 2 21
+move 2 2
+move 3 2
+move 4 2
+move 5 1
+move 6 3
+move 7 1
+OK
+fuel 0 1
+move 0 3
+move 1 2
+move 3 2
+move 4 0
+fuel 5 2
+move 7 3
+OK
+fuel 0 1
+move 0 0
+attack 1 2 7
+move 1 3
+move 2 2
+move 3 1
+move 4 0
+move 6 2
+move 7 1
+OK
+move 0 0
+move 1 2
+move 2 0
+attack 3 1 6
+move 3 0
+move 4 1
+move 6 3
+fuel 7 6
+missile 7 3
+move 7 3
+OK
+attack 0 2 3
+move 0 0
+move 1 2
+move 2 3
+move 3 2
+move 4 3
+fuel 7 1
+move 7 0
+OK
+fuel 0 3
+missile 0 3
+move 0 3
+attack 1 0 7
+attack 1 1 7
+attack 1 2 7
+move 1 2
+move 2 3
+attack 3 2 8
+attack 3 0 10
+move 3 2
+move 4 1
+move 5 0
+move 6 1
+fuel 7 1
+move 7 2
+OK
+fuel 0 1
+move 0 0
+move 1 0
+move 2 2
+attack 3 2 6
+move 3 0
+move 4 0
+move 5 2
+move 6 1
+move 7 2
+OK
+fuel 0 1
+move 0 0
+attack 1 0 9
+move 1 0
+move 2 3
+attack 3 2 1
+move 3 3
+move 4 2
+move 5 3
+move 7 2
+OK
+move 0 3
+move 1 2
+move 2 0
+move 3 2
+move 4 2
+move 5 1
+attack 7 2 7
+attack 7 1 4
+move 7 1
+OK
+move 0 0
+attack 1 0 1
+move 1 3
+fuel 2 8
+move 2 1
+move 3 1
+attack 4 2 9
+move 4 2
+fuel 5 4
+attack 7 1 2
+move 7 2
+OK
+move 0 1
+move 1 3
+move 2 2
+move 3 0
+attack 7 2 1
+move 7 2
+OK
+move 0 1
+move 1 2
+move 2 2
+move 3 2
+move 4 3
+move 6 2
+attack 7 0 5
+attack 7 1 3
+move 7 3
+OK
+move 0 0
+move 1 3
+move 2 3
+move 3 1
+move 4 1
+move 5 2
+move 6 1
+move 7 0
+OK
+move 0 0
+move 1 2
+move 2 2
+attack 3 2 9
+move 3 2
+move 5 2
+fuel 6 10
+missile 6 8
+move 6 3
+move 7 3
+OK
+move 1 3
+move 2 2
+attack 3 2 4
+move 4 1
+move 5 2
+move 6 0
+move 7 2
+OK
+move 0 2
+move 1 2
+move 2 2
+move 5 0
+move 7 2
+OK
+move 0 0
+move 1 0
+attack 2 0 1
+move 2 0
+move 3 0
+move 4 1
+attack 5 2 9
+move 5 1
+move 7 2
+OK
+move 0 2
+move 1 3
+move 2 2
+move 4 3
+move 6 0
+move 7 0
+OK
+attack 0 2 3
+move 0 1
+move 1 2
+move 2 2
+move 3 1
+move 4 1
+move 5 0
+move 6 1
+fuel 7 13
+missile 7 22
+move 7 3
+OK
+move 0 3
+move 1 2
+move 2 3
+move 3 0
+move 4 0
+move 5 1
+move 7 2
+OK
+move 0 0
+attack 1 2 1
+move 1 2
+move 2 0
+move 4 2
+move 6 0
+fuel 7 2
+move 7 1
+OK
+move 0 3
+move 1 2
+move 2 2
+move 3 1
+move 6 1
+move 7 2
+OK
+move 0 0
+move 1 3
+move 2 1
+move 5 3
+move 6 0
+move 7 0
+OK
+move 0 3
+move 1 2
+move 2 0
+move 3 0
+move 4 1
+move 5 3
+move 7 2
+OK
+move 0 2
+move 1 0
+move 2 2
+move 3 3
+move 4 2
+fuel 7 4
+move 7 3
+OK
+move 0 0
+attack 1 0 10
+move 1 2
+move 2 1
+move 4 1
+move 6 0
+move 7 2
+OK
+move 0 0
+fuel 1 26
+missile 1 49
+move 1 2
+move 2 2
+move 4 2
+fuel 7 2
+move 7 2
+OK
+fuel 0 19
+missile 0 3
+move 0 2
+move 1 2
+attack 2 2 9
+attack 2 1 8
+move 2 2
+move 4 3
+move 5 3
+move 6 2
+attack 7 0 6
+move 7 0
+OK
+fuel 0 1
+move 0 2
+move 1 2
+attack 2 0 4
+attack 2 1 7
+attack 2 2 1
+move 2 2
+move 4 2
+fuel 5 10
+missile 5 9
+move 5 3
+move 6 3
+move 7 0
+OK
+move 0 1
+move 1 3
+attack 2 1 9
+attack 2 2 7
+move 2 1
+move 3 1
+move 4 2
+fuel 5 1
+move 6 0
+attack 7 0 4
+move 7 0
+OK
+move 0 0
+move 1 2
+attack 2 1 10
+move 2 2
+move 3 0
+move 4 2
+attack 7 0 7
+move 7 2
+OK
+move 0 3
+move 1 3
+attack 2 2 6
+move 2 2
+move 3 1
+move 4 0
+attack 7 2 4
+move 7 2
+OK
+fuel 0 4
+move 0 0
+move 1 3
+attack 2 2 6
+move 2 1
+move 3 0
+move 4 1
+move 6 2
+attack 7 2 2
+move 7 1
+OK
+fuel 0 1
+move 0 1
+move 1 1
+move 4 2
+move 5 3
+move 6 0
+attack 7 2 8
+move 7 1
+OK
+fuel 0 1
+move 0 0
+fuel 1 8
+move 1 2
+move 3 1
+move 4 1
+move 5 2
+move 6 1
+attack 7 2 5
+move 7 3
+OK
+fuel 0 1
+move 0 3
+move 1 1
+move 2 2
+move 3 0
+move 4 2
+fuel 5 2
+move 5 3
+move 6 3
+move 7 0
+OK
+move 0 0
+fuel 1 2
+move 1 2
+move 2 2
+move 3 2
+move 4 3
+move 7 0
+OK
+move 0 3
+move 1 2
+attack 2 0 8
+move 2 2
+move 4 1
+move 6 2
+move 7 2
+OK
+fuel 0 3
+move 0 0
+fuel 1 2
+move 1 1
+fuel 2 27
+missile 2 76
+move 3 3
+move 4 1
+move 5 0
+move 6 1
+move 7 0
+OK
+fuel 0 1
+move 0 2
+move 1 2
+move 2 2
+move 3 2
+move 4 3
+attack 5 0 4
+move 5 2
+move 6 3
+attack 7 2 10
+move 7 0
+OK
+move 0 0
+move 1 2
+attack 2 2 8
+move 2 3
+move 4 1
+move 5 1
+attack 7 0 5
+attack 7 2 8
+move 7 1
+OK
+move 0 0
+attack 1 2 8
+move 1 1
+fuel 2 2
+missile 2 8
+move 2 0
+move 4 2
+fuel 5 4
+missile 5 4
+move 6 2
+move 7 2
+OK
+move 0 1
+fuel 1 4
+missile 1 8
+move 1 1
+attack 2 0 1
+move 2 2
+move 4 0
+move 6 3
+move 7 1
+OK
+move 0 2
+fuel 1 1
+move 1 2
+move 2 0
+move 3 2
+move 4 2
+move 6 1
+move 7 1
+OK
+move 0 0
+fuel 1 1
+move 1 3
+move 2 2
+move 4 3
+move 5 2
+move 6 2
+attack 7 2 1
+move 7 3
+OK
+fuel 0 6
+move 0 2
+fuel 1 1
+move 1 2
+attack 2 2 7
+move 2 3
+move 4 1
+fuel 5 1
+move 5 3
+move 6 2
+move 7 2
+OK
+move 0 0
+fuel 1 1
+move 1 2
+move 2 2
+move 4 3
+fuel 5 1
+move 6 3
+move 7 2
+OK
+move 0 0
+move 1 2
+move 2 3
+move 4 2
+move 6 0
+move 7 0
+OK
+move 0 0
+fuel 1 2
+move 1 2
+move 2 3
+move 3 3
+move 4 2
+move 5 3
+move 6 3
+attack 7 2 3
+move 7 0
+OK
+move 0 1
+fuel 1 1
+move 1 3
+attack 2 0 3
+move 2 3
+move 4 1
+move 6 2
+attack 7 0 3
+move 7 2
+OK
+move 0 0
+fuel 1 1
+move 1 0
+move 3 1
+move 4 0
+move 6 0
+move 7 2
+OK
+move 0 2
+move 1 2
+move 2 2
+move 4 0
+move 5 0
+move 6 3
+move 7 3
+OK
+fuel 0 7
+move 0 1
+move 1 2
+move 2 2
+move 3 0
+move 4 1
+move 5 0
+move 6 2
+move 7 0
+OK
+move 0 3
+fuel 1 3
+move 1 3
+move 2 3
+move 4 2
+move 5 1
+move 6 3
+move 7 0
+OK
+move 0 0
+move 1 2
+move 2 2
+move 3 3
+move 4 2
+move 5 1
+move 6 2
+move 7 2
+OK
+move 0 0
+fuel 1 2
+move 1 2
+move 2 2
+move 3 3
+move 4 2
+move 5 0
+move 6 3
+move 7 2
+OK
+fuel 0 4
+move 0 1
+attack 1 0 4
+move 1 3
+move 2 0
+fuel 4 52
+missile 4 9
+move 4 2
+move 5 1
+move 7 2
+OK
+move 0 2
+fuel 1 2
+missile 1 4
+move 1 2
+attack 2 2 8
+move 2 2
+move 3 3
+move 4 1
+move 7 0
+OK
+fuel 0 2
+move 0 0
+move 1 0
+attack 2 2 3
+move 2 3
+fuel 4 2
+move 4 2
+fuel 7 32
+missile 7 66
+move 7 2
+OK
+attack 0 2 2
+move 0 3
+move 2 3
+move 4 2
+move 6 0
+fuel 7 1
+move 7 2
+OK
+fuel 0 2
+missile 0 2
+move 0 3
+move 2 2
+fuel 4 2
+move 4 2
+fuel 6 34
+attack 7 2 7
+move 7 2
+OK
+attack 0 1 4
+move 0 0
+move 2 3
+move 3 1
+attack 4 2 4
+move 4 0
+attack 7 1 5
+move 7 2
+OK
+move 0 0
+move 2 2
+move 3 0
+move 4 2
+attack 7 0 4
+attack 7 2 6
+attack 7 1 1
+move 7 1
+OK
+move 0 2
+move 1 1
+move 2 1
+move 3 2
+move 4 2
+attack 7 2 2
+attack 7 1 8
+move 7 1
+OK
+fuel 0 4
+missile 0 4
+move 0 0
+move 1 1
+move 2 2
+move 3 2
+fuel 4 4
+missile 4 4
+move 4 2
+move 7 2
+OK
+fuel 0 1
+move 0 0
+move 2 2
+move 3 1
+fuel 4 1
+move 4 2
+move 5 2
+move 6 0
+attack 7 1 5
+move 7 2
+OK
+fuel 0 1
+move 0 3
+move 2 2
+move 3 3
+move 4 3
+fuel 5 8
+attack 7 0 6
+attack 7 1 10
+move 7 2
+OK
+move 0 3
+fuel 2 25
+missile 2 22
+move 2 2
+move 3 3
+fuel 4 2
+move 4 2
+move 7 3
+OK
+fuel 0 2
+move 0 2
+fuel 2 1
+move 2 0
+move 3 3
+move 4 2
+move 5 2
+move 6 2
+move 7 2
+OK
+attack 2 0 2
+move 2 3
+move 3 2
+move 4 0
+fuel 5 1
+move 6 0
+move 7 1
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 0
+move 4 2
+move 5 0
+move 6 3
+attack 7 2 10
+move 7 2
+OK
+move 0 0
+fuel 2 3
+missile 2 2
+move 2 2
+fuel 4 4
+move 4 3
+move 5 1
+attack 6 0 4
+attack 7 2 8
+move 7 3
+OK
+move 0 2
+fuel 2 1
+move 2 2
+move 4 0
+fuel 5 2
+move 6 1
+move 7 2
+OK
+fuel 0 4
+move 1 3
+fuel 2 1
+move 2 2
+fuel 4 2
+move 4 2
+move 5 3
+move 7 2
+OK
+move 1 2
+fuel 2 1
+move 2 0
+move 3 2
+fuel 4 1
+move 4 0
+attack 7 2 2
+attack 7 1 2
+move 7 3
+OK
+move 0 3
+fuel 2 1
+move 2 1
+move 3 3
+move 4 1
+move 6 1
+move 7 3
+OK
+move 1 1
+fuel 2 1
+move 2 2
+move 3 2
+fuel 4 2
+move 4 3
+move 5 3
+fuel 6 6
+missile 6 4
+move 7 2
+OK
+fuel 2 1
+move 2 2
+fuel 4 1
+move 4 2
+move 6 0
+move 7 1
+OK
+move 0 3
+move 1 3
+move 2 2
+fuel 4 1
+move 4 0
+move 5 0
+move 6 2
+move 7 2
+OK
+fuel 0 2
+fuel 1 9
+move 1 2
+move 4 0
+move 5 2
+move 6 3
+attack 7 1 4
+move 7 3
+OK
+move 0 1
+move 1 1
+move 2 1
+move 4 0
+move 5 1
+move 6 1
+move 7 0
+OK
+fuel 0 1
+move 0 3
+move 4 3
+move 5 2
+fuel 6 4
+move 7 0
+OK
+attack 0 1 4
+move 0 0
+move 2 3
+move 3 2
+move 4 2
+fuel 5 6
+move 7 2
+OK
+move 0 2
+move 2 0
+move 4 2
+move 5 3
+move 7 2
+OK
+fuel 0 3
+missile 0 4
+move 2 1
+fuel 4 6
+move 4 2
+move 7 2
+OK
+move 2 2
+attack 4 0 9
+move 4 2
+move 5 2
+move 7 2
+OK
+move 1 1
+move 3 3
+fuel 5 2
+move 5 3
+move 6 0
+move 7 2
+OK
+move 2 1
+fuel 7 28
+missile 7 80
+move 7 2
+OK
+move 0 2
+move 1 3
+move 2 3
+move 5 3
+fuel 7 1
+move 7 2
+OK
+fuel 1 4
+move 1 2
+move 2 2
+move 4 3
+fuel 7 1
+move 7 2
+OK
+move 4 3
+attack 7 0 7
+move 7 2
+OK
+move 1 3
+move 2 0
+fuel 4 4
+missile 4 9
+move 4 2
+move 6 1
+attack 7 0 3
+OK
+fuel 1 2
+move 1 2
+move 2 1
+move 4 2
+fuel 6 2
+OK
+move 1 1
+move 3 3
+attack 4 0 2
+attack 4 2 4
+move 4 1
+move 5 2
+move 7 0
+OK
+move 0 2
+move 3 1
+attack 4 2 1
+move 4 2
+attack 7 0 3
+move 7 3
+OK
+fuel 0 2
+move 0 3
+move 1 1
+move 3 0
+move 4 2
+move 5 2
+move 7 2
+OK
+move 2 3
+attack 4 2 2
+move 4 3
+fuel 5 4
+move 6 0
+move 7 3
+OK
+move 2 2
+move 4 0
+move 6 0
+move 7 2
+OK
+move 2 3
+move 4 3
+move 6 0
+move 7 3
+OK
+move 1 3
+move 2 3
+move 4 1
+move 5 0
+attack 6 0 2
+move 7 2
+OK
+move 1 3
+move 2 2
+move 3 2
+move 4 2
+move 5 1
+move 6 0
+move 7 0
+OK
+move 0 1
+move 1 3
+move 2 2
+move 3 1
+move 4 0
+fuel 5 2
+OK
+move 0 3
+move 1 2
+move 3 0
+OK
+fuel 0 3
+move 0 2
+move 1 1
+move 2 0
+move 3 3
+move 4 2
+move 6 2
+OK
+move 0 2
+move 1 2
+move 3 2
+move 5 0
+move 6 3
+OK
+fuel 0 2
+move 0 1
+move 1 2
+move 4 3
+move 5 2
+OK
+fuel 0 1
+move 0 0
+move 4 1
+move 5 1
+move 7 3
+OK
+fuel 0 1
+move 0 0
+move 4 2
+move 7 2
+OK
+fuel 0 1
+move 2 3
+OK
+move 0 3
+move 2 2
+OK
+move 3 1
+OK
+move 0 1
+move 3 1
+move 4 0
+move 6 1
+move 7 1
+OK
+move 0 2
+move 2 3
+move 3 1
+move 4 1
+move 6 2
+OK
+fuel 0 3
+move 0 0
+move 2 2
+move 3 0
+move 6 3
+OK
+fuel 0 1
+move 3 0
+move 6 1
+OK
+move 0 1
+move 3 0
+move 7 3
+OK
+fuel 0 1
+move 0 0
+move 1 1
+move 2 0
+move 3 1
+move 5 2
+move 7 0
+OK
+fuel 0 1
+move 3 3
+move 6 0
+move 7 2
+OK
+move 0 3
+move 1 1
+move 3 0
+move 5 2
+move 6 0
+OK
+move 0 3
+move 2 3
+move 3 3
+OK
+fuel 0 2
+move 2 2
+move 4 1
+move 5 0
+OK
+move 3 1
+move 4 2
+move 5 1
+move 7 3
+OK
+move 3 0
+move 7 2
+OK
+move 4 2
+OK
+move 1 0
+move 5 3
+move 6 2
+OK
+move 1 1
+move 3 1
+move 4 2
+move 6 0
+move 7 0
+OK
+move 0 1
+move 1 1
+move 2 1
+move 3 0
+move 6 0
+move 7 1
+OK
+fuel 0 1
+move 0 0
+move 2 3
+move 3 2
+fuel 6 15
+missile 6 2
+move 6 3
+move 7 0
+OK
+fuel 0 1
+move 0 2
+move 2 2
+move 3 1
+move 4 3
+OK
+move 0 3
+move 3 0
+move 4 2
+move 5 2
+move 7 1
+OK
+fuel 0 2
+move 1 3
+move 2 1
+move 6 2
+move 7 0
+OK
+move 1 2
+move 2 0
+move 3 1
+fuel 6 2
+move 6 3
+OK
+move 3 0
+OK
+move 0 2
+OK
+move 1 0
+OK
+move 1 3
+move 3 1
+move 4 3
+move 6 1
+move 7 3
+OK
+move 1 2
+move 3 0
+move 4 2
+move 7 2
+OK
+OK
+move 0 1
+move 5 3
+OK
+move 0 0
+OK
+OK
+move 1 0
+move 2 1
+move 6 0
+OK
+move 0 2
+move 1 3
+move 3 2
+move 5 2
+OK
+fuel 0 4
+move 0 1
+move 1 2
+move 5 0
+move 6 2
+move 7 1
+OK
+fuel 0 1
+move 0 0
+move 1 1
+move 3 3
+move 5 1
+fuel 6 4
+move 6 0
+OK
+fuel 0 1
+move 0 3
+fuel 6 1
+move 6 3
+OK
+move 0 1
+move 5 2
+move 7 3
+OK
+move 0 0
+move 3 2
+move 6 2
+move 7 2
+OK
+move 0 2
+move 2 3
+fuel 6 2
+move 6 3
+OK
+fuel 0 4
+move 2 2
+move 3 1
+move 5 0
+move 6 1
+OK
+move 3 3
+attack 5 0 3
+attack 5 2 7
+move 5 2
+OK
+move 3 1
+attack 5 2 9
+move 5 1
+move 6 2
+move 7 1
+OK
+move 3 0
+move 5 3
+fuel 6 3
+move 6 0
+OK
+move 3 0
+fuel 6 1
+move 6 1
+move 7 3
+OK
+fuel 6 1
+move 6 3
+move 7 2
+OK
+move 1 3
+move 6 2
+move 7 0
+OK
+move 1 0
+move 5 3
+fuel 6 2
+move 6 3
+OK
+move 1 0
+move 3 3
+OK
+move 0 1
+move 1 2
+move 5 0
+OK
+fuel 0 1
+move 0 0
+move 5 1
+move 7 1
+OK
+fuel 0 1
+move 1 3
+OK
+move 1 2
+move 5 0
+OK
+move 0 1
+move 1 0
+move 5 1
+OK
+fuel 0 1
+move 0 0
+move 3 3
+OK
+fuel 0 1
+move 1 0
+move 7 0
+OK
+move 1 3
+move 6 0
+move 7 1
+OK
+move 1 2
+move 7 3
+OK
+move 5 2
+move 7 0
+OK
+move 0 1
+move 3 2
+move 7 2
+OK
+fuel 0 1
+move 0 0
+move 3 2
+OK
+fuel 0 1
+move 1 1
+move 6 1
+OK
+move 6 2
+move 7 1
+OK
+move 5 3
+fuel 6 4
+move 6 2
+move 7 1
+OK
+fuel 6 1
+move 6 3
+OK
+move 1 1
+move 2 0
+fuel 6 1
+move 6 3
+OK
+move 3 2
+OK
+move 2 0
+OK
+move 0 3
+move 5 0
+OK
+move 0 2
+move 5 1
+OK
+fuel 0 2
+move 5 2
+OK
+OK
+move 0 3
+move 3 3
+move 6 0
+OK
+move 5 2
+OK
+move 3 1
+move 7 1
+OK
+move 1 3
+move 3 3
+move 7 0
+OK
+move 1 3
+move 3 0
+move 7 0
+OK
+move 1 2
+move 6 1
+OK
+move 1 2
+move 4 3
+move 5 3
+OK
+move 1 0
+move 4 3
+move 5 2
+OK
+move 4 3
+move 7 0
+OK
+move 2 1
+move 3 3
+move 4 3
+OK
+move 4 2
+move 7 0
+OK
+move 0 2
+move 2 0
+move 4 2
+move 7 3
+OK
+fuel 0 2
+move 0 3
+move 4 2
+move 5 2
+move 7 2
+OK
+move 3 1
+move 4 2
+OK
+move 3 2
+OK
+move 3 0
+move 5 2
+move 6 2
+OK
+move 1 1
+move 2 1
+fuel 6 4
+move 6 3
+OK
+move 3 1
+OK
+move 3 0
+move 5 2
+OK
+move 3 2
+fuel 5 34
+missile 5 19
+OK
+move 4 3
+OK
+move 0 3
+move 4 2
+OK
+fuel 0 2
+move 1 3
+move 2 1
+OK
+move 1 2
+move 2 0
+move 3 3
+OK
+OK
+move 1 3
+move 5 2
+OK
+move 1 2
+fuel 5 1
+OK
+OK
+move 2 3
+OK
+move 2 2
+move 5 3
+OK
+move 0 2
+move 3 3
+fuel 5 1
+OK
+OK
+move 0 2
+move 3 2
+move 5 3
+move 6 0
+OK
+fuel 0 2
+move 3 1
+move 5 0
+OK
+move 3 0
+move 5 1
+move 6 1
+OK
+move 7 1
+OK
+move 7 3
+OK
+move 7 2
+OK
+move 7 0
+OK
+move 1 1
+OK
+OK
+move 0 1
+OK
+fuel 0 1
+move 0 2
+move 6 2
+OK
+move 0 0
+fuel 6 4
+move 6 3
+OK
+attack 0 2 4
+move 6 2
+move 7 3
+OK
+move 5 3
+fuel 6 2
+move 6 3
+move 7 2
+OK
+move 2 0
+OK
+move 1 0
+move 3 1
+OK
+move 3 1
+OK
+move 3 0
+move 4 3
+move 6 0
+OK
+move 3 0
+move 5 2
+OK
+move 4 2
+OK
+OK
+move 0 1
+OK
+move 0 1
+OK
+move 0 0
+OK
+move 0 0
+OK
+OK
+move 0 3
+OK
+fuel 0 7
+missile 0 4
+move 0 2
+move 2 0
+move 5 0
+OK
+attack 0 2 2
+move 5 1
+OK
+move 2 0
+move 7 3
+OK
+move 0 3
+move 1 3
+fuel 2 46
+move 7 2
+OK
+fuel 0 2
+missile 0 2
+move 0 3
+move 1 2
+OK
+move 3 2
+move 5 0
+move 7 1
+OK
+move 0 1
+move 1 3
+move 2 1
+move 5 1
+move 6 2
+move 7 1
+OK
+move 0 0
+move 1 2
+fuel 6 3
+move 6 3
+OK
+move 7 1
+OK
+OK
+move 3 2
+OK
+OK
+OK
+move 4 3
+OK
+move 2 0
+move 4 2
+OK
+move 0 1
+fuel 2 2
+OK
+move 0 0
+move 1 1
+OK
+OK
+move 2 3
+move 6 1
+OK
+fuel 2 1
+move 2 2
+move 6 0
+OK
+move 1 0
+fuel 2 1
+move 4 3
+OK
+move 2 0
+move 4 3
+OK
+fuel 2 1
+move 4 2
+OK
+move 0 3
+move 4 2
+move 7 3
+OK
+fuel 0 6
+move 3 1
+move 7 2
+OK
+move 2 1
+move 3 0
+move 5 3
+OK
+fuel 2 1
+OK
+move 0 1
+move 6 2
+OK
+fuel 0 1
+move 0 0
+move 2 3
+move 3 3
+fuel 6 4
+move 6 3
+OK
+fuel 0 1
+fuel 2 1
+move 2 2
+OK
+fuel 2 1
+move 4 3
+OK
+move 1 0
+move 4 2
+OK
+move 0 1
+OK
+fuel 0 1
+move 0 0
+move 6 2
+OK
+fuel 0 1
+move 3 1
+fuel 6 2
+move 6 0
+OK
+move 3 0
+move 6 3
+OK
+OK
+OK
+move 1 1
+move 5 0
+OK
+move 1 1
+move 5 1
+OK
+move 0 1
+move 4 3
+move 5 3
+move 7 3
+OK
+fuel 0 1
+move 0 0
+move 4 2
+move 7 1
+OK
+fuel 0 1
+move 2 1
+move 5 2
+move 7 2
+OK
+OK
+move 7 3
+OK
+move 1 3
+move 7 2
+OK
+move 1 2
+move 5 2
+OK
+move 2 3
+OK
+fuel 2 2
+move 2 2
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 3
+OK
+fuel 2 2
+move 2 2
+OK
+move 2 1
+OK
+OK
+move 3 1
+OK
+move 3 0
+OK
+move 6 2
+OK
+move 6 3
+OK
+OK
+move 1 0
+move 5 3
+OK
+move 2 0
+OK
+move 6 1
+move 7 0
+OK
+move 3 2
+OK
+move 1 1
+OK
+move 1 3
+move 3 2
+OK
+move 1 2
+OK
+OK
+OK
+move 4 3
+OK
+move 2 3
+move 3 3
+move 4 2
+move 5 0
+move 6 0
+move 7 3
+OK
+fuel 2 4
+move 2 0
+move 5 1
+move 7 2
+OK
+fuel 2 1
+move 2 0
+move 7 3
+OK
+move 0 1
+attack 2 0 9
+move 2 2
+move 7 2
+OK
+fuel 0 1
+move 0 3
+fuel 2 2
+missile 2 9
+move 7 0
+OK
+attack 0 1 4
+move 0 0
+move 2 1
+OK
+move 1 1
+fuel 2 1
+OK
+move 4 3
+move 6 0
+OK
+move 4 2
+fuel 6 7
+OK
+OK
+move 1 0
+OK
+move 6 0
+OK
+move 0 2
+move 5 2
+OK
+fuel 0 3
+missile 0 4
+OK
+move 1 3
+move 2 1
+OK
+move 1 2
+move 2 3
+OK
+fuel 2 2
+move 2 3
+move 5 3
+move 7 3
+OK
+move 1 1
+fuel 2 1
+move 2 2
+move 7 2
+OK
+fuel 2 1
+move 2 2
+move 4 3
+move 5 0
+move 7 1
+OK
+move 3 3
+move 4 2
+move 5 1
+OK
+move 6 0
+OK
+fuel 6 2
+OK
+move 3 1
+OK
+move 3 0
+move 5 0
+OK
+move 1 3
+move 5 1
+OK
+move 1 2
+OK
+move 7 1
+OK
+move 7 0
+OK
+move 1 0
+move 7 3
+OK
+move 0 2
+move 3 3
+move 5 3
+move 7 3
+OK
+move 5 2
+fuel 7 13
+missile 7 13
+move 7 2
+OK
+move 0 2
+move 7 2
+OK
+fuel 0 2
+move 6 0
+OK
+move 1 3
+OK
+move 1 2
+OK
+move 2 3
+OK
+fuel 2 2
+move 2 2
+move 3 3
+OK
+move 2 1
+OK
+move 1 3
+OK
+move 1 2
+move 5 2
+OK
+OK
+move 2 3
+move 7 0
+OK
+move 2 2
+move 4 3
+OK
+move 4 3
+OK
+move 4 2
+OK
+move 4 2
+OK
+OK
+OK
+move 1 3
+OK
+move 1 2
+OK
+OK
+OK
+move 2 1
+OK
+OK
+move 3 2
+OK
+move 2 3
+OK
+move 2 2
+OK
+OK
+move 2 0
+OK
+move 0 2
+move 3 3
+OK
+OK
+move 3 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 0
+OK
+move 0 1
+OK
+move 0 0
+move 1 1
+move 2 0
+OK
+fuel 2 10
+OK
+OK
+OK
+move 0 3
+OK
+fuel 0 4
+OK
+OK
+move 2 1
+OK
+move 5 0
+OK
+move 5 1
+OK
+OK
+move 1 3
+OK
+move 1 2
+OK
+OK
+move 0 2
+OK
+OK
+move 2 3
+OK
+fuel 2 2
+move 2 1
+OK
+move 1 3
+move 2 2
+move 7 1
+OK
+move 0 1
+move 1 2
+OK
+move 0 0
+OK
+move 3 2
+OK
+move 0 3
+move 1 1
+move 2 1
+OK
+fuel 0 4
+move 4 3
+move 5 0
+OK
+move 2 0
+move 4 2
+move 5 1
+OK
+move 7 3
+OK
+move 5 0
+move 7 2
+OK
+move 0 3
+move 5 1
+OK
+move 3 3
+move 4 3
+OK
+move 2 3
+OK
+move 2 2
+move 4 2
+OK
+move 1 0
+OK
+move 1 3
+OK
+move 1 2
+OK
+OK
+OK
+OK
+OK
+move 0 2
+OK
+fuel 0 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 0
+move 4 3
+OK
+move 4 2
+OK
+move 3 1
+OK
+move 3 0
+OK
+move 0 1
+OK
+fuel 0 1
+move 0 0
+OK
+fuel 0 1
+OK
+move 0 2
+OK
+OK
+move 0 2
+move 7 1
+OK
+OK
+OK
+move 4 3
+move 5 2
+OK
+move 4 2
+fuel 5 34
+move 6 1
+OK
+fuel 6 2
+move 7 1
+OK
+fuel 7 73
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 2
+OK
+move 6 3
+OK
+move 1 0
+fuel 6 2
+OK
+OK
+OK
+OK
+OK
+move 1 3
+OK
+move 1 2
+OK
+OK
+OK
+move 3 1
+OK
+move 3 0
+OK
+OK
+move 0 1
+OK
+attack 0 1 4
+move 0 0
+OK
+move 1 0
+move 4 3
+OK
+move 4 2
+OK
+move 1 0
+OK
+move 5 0
+OK
+fuel 5 1
+move 5 1
+move 7 3
+OK
+move 0 1
+fuel 5 1
+move 7 2
+OK
+move 0 0
+move 3 1
+fuel 7 2
+OK
+move 2 3
+move 3 0
+OK
+fuel 2 8
+move 2 2
+OK
+OK
+OK
+move 6 1
+OK
+move 1 3
+OK
+move 1 2
+OK
+move 6 2
+move 7 3
+OK
+move 6 3
+move 7 2
+OK
+move 1 0
+fuel 7 2
+OK
+move 5 3
+OK
+OK
+move 5 2
+OK
+fuel 5 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 1
+OK
+move 3 0
+OK
+move 3 3
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 2
+OK
+move 3 1
+fuel 5 1
+OK
+move 2 1
+move 3 0
+OK
+OK
+move 5 3
+OK
+fuel 5 1
+OK
+OK
+OK
+OK
+move 0 3
+move 2 1
+OK
+OK
+move 2 0
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 3
+OK
+move 2 2
+OK
+OK
+OK
+move 3 2
+move 7 3
+OK
+move 2 3
+move 7 2
+OK
+move 2 1
+fuel 7 2
+OK
+move 1 0
+move 2 2
+OK
+OK
+OK
+OK
+move 6 2
+OK
+move 6 2
+OK
+move 6 3
+OK
+move 6 3
+OK
+OK
+move 0 2
+OK
+OK
+OK
+move 7 3
+OK
+move 7 2
+OK
+fuel 7 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 2
+OK
+move 6 3
+OK
+OK
+move 6 0
+OK
+move 5 3
+fuel 6 10
+OK
+OK
+OK
+move 7 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 3
+OK
+fuel 7 2
+move 7 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 2
+OK
+fuel 5 2
+OK
+OK
+OK
+move 0 1
+OK
+move 0 0
+OK
+OK
+move 5 2
+OK
+move 2 1
+fuel 5 1
+move 6 1
+OK
+move 1 0
+OK
+OK
+OK
+move 1 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 3
+OK
+fuel 7 2
+move 7 2
+OK
+OK
+move 3 1
+OK
+move 3 0
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 3
+OK
+fuel 5 1
+OK
+OK
+OK
+OK
+OK
+OK
+move 1 0
+move 5 3
+OK
+OK
+move 4 3
+move 7 3
+OK
+move 4 2
+fuel 7 2
+move 7 2
+OK
+OK
+move 0 1
+OK
+move 0 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 0
+OK
+fuel 6 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 0
+OK
+OK
+OK
+OK
+move 7 3
+OK
+fuel 7 2
+move 7 2
+OK
+move 5 2
+OK
+fuel 5 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 1
+OK
+fuel 6 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 2 3
+OK
+move 1 3
+move 2 2
+OK
+fuel 1 99
+move 1 2
+OK
+move 2 3
+OK
+move 2 2
+move 5 3
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 1
+OK
+move 3 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 2
+OK
+move 5 0
+OK
+move 5 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 2
+OK
+fuel 5 4
+OK
+OK
+move 1 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 0
+OK
+fuel 5 1
+move 5 1
+OK
+fuel 5 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 0 3
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 3 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 1 0
+OK
+OK
+move 7 0
+OK
+fuel 7 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 2
+OK
+move 6 3
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 0
+OK
+fuel 5 1
+move 5 1
+OK
+fuel 5 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 6 1
+OK
+fuel 6 4
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 4 3
+OK
+move 4 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 1 1
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 5 3
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 7 3
+OK
+move 7 2
+OK
+move 1 0
+fuel 7 2
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+move 1 0
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+OK
